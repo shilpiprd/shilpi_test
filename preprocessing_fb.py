@@ -52,3 +52,6 @@ def data_preprocessor(data, data_raw):
     data.fillna(data.mean(), inplace=True)
     data_raw.fillna(data_raw.mean(), inplace=True)
     return data, data_raw
+
+making changes to git repo and learning git ^^
+
